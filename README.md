@@ -25,7 +25,7 @@ TailwindCSS: For styling the website with a modern, responsive design.
 
 How to View
 
-You can explore the Greeden-Tailwind by visiting 
+You can explore the Greeden-Tailwind by visiting https://aswin-pro.github.io/Greenden-Tailwind/
 
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback and contributions are highly valued!
 Thank you for visiting and exploring my Greeden-Tailwind!
