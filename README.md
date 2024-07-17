@@ -1,6 +1,6 @@
 Greenden-Tailwind
 
-Welcome to Greenden, an interior designing flower shop website created using HTML and TailwindCSS. This project showcases a sleek and responsive design to provide an engaging user experience for potential customers.
+Welcome to Greenden, an interior designing flower shop website created using HTML , TailwindCSS and JavaScript. This project showcases a sleek and responsive design to provide an engaging user experience for potential customers.
 
 Project Overview
 
@@ -22,6 +22,8 @@ Technologies Used
 
 HTML: For structuring the content of the website.
 TailwindCSS: For styling the website with a modern, responsive design.
+JavaScript: For adding interactivity and dynamic behavior to the website.
+
 
 How to View
 
